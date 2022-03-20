@@ -1,0 +1,57 @@
+README.md
+# Home Page
+## Hello, My name is Kamsi Omeni
+I am a senior at the University of Missouri studying Economics with a minor in business. I am the Current representative of the African Student Association on campus.
+Navigate my website using these links
+* [Skills & Interests](./skills & interests.md)
+* [Experience](./experience.md)
+[Leadership](./leadership.md)
+* [Contact Information](./contact information.md)
+skills & interests.md
+# Skills & Interests
+## Skills
+1. Project Management
+1. Microsoft Word
+1. Microsoft Excel 
+1. Customer Service
+1. Public Speaking
+## Interests
+1. Social Media Marketing
+1. Networking
+[Go back to home page](./README.md)
+experience.md
+# Experience
+
+### HTML
+"'html
+<!DOCTYPE html>
+chtml>
+<head>
+<meta charset="UTF-8">
+‹title>Fizz Buzz</title>
+<script>
+function fizzbuzz0 (
+var display = document.getElementByld('display);
+var displayHTML="*
+for (¡ = 0; 1 < 100; i++) (
+displayHTML += "<p>" + i+"</p>",
+display.innerHTIML = displayHTML;
+</script>
+</head>
+<body onload="fizzbuzz(">
+<divid="display">
+</div>
+</body>
+</html>
+### C code
+#include «stdio.h>
+int main0 (
+/I printf0 displays the string inside quotation
+printf("Hello, World!");
+return O:
+[return to home page](./README.md)
+hobby.nd
+# Hobby
+I_ like_ to visit these sites as hobby-
+* [Twitter]
+[return to home)(./README.md)
